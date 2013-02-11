@@ -1,2 +1,3 @@
 Initial text.
 I'm adding a second line of text to this file.
+Now I'm editing from github.com
