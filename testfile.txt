@@ -1,1 +1,2 @@
 Initial text.
+I'm adding a second line of text to this file.
